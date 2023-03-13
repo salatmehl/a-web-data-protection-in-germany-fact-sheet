@@ -1,4 +1,4 @@
-# web-data-protection-in-germany-fact-sheet
+# a-web-data-protection-in-germany-fact-sheet
 This is a page with a fact sheet covering major info-points to protect your web-related data when located in Germany. 
 
 Hi again!
